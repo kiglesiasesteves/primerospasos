@@ -9,4 +9,4 @@ También tenía sus días más dificiles que recordaban cuanto menos a la novela
 
 Era en aquellos momentos que hasta yo mismo me planteaba mi propia cordura rodeado de cerebros monstruosos decorados con joyas y elegancia.
 
-¡[Yoda](./images.git/yoda.jpg)
+![Yoda](./images/yoda.jpg)
