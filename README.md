@@ -8,3 +8,5 @@ Pasé cuatro noches en la casa de Elizabeth Bishop. Paseabamos por el salón mie
 También tenía sus días más dificiles que recordaban cuanto menos a la novela de Alias Grace. En estos días empezaba s ubir por las escaleras pero al llegar al vigesimo escalón,a aquella viga en la que se escuchaba un ligero crujido se giraba y empezaba a invocar a todos los dioses que conocía incluyendo los de sus antepasados:***PERO COMO PUEDE SER POSIBLE*** __QUE TODO LO MALO__ ***ME PASE SOLO A MÍ***
 
 Era en aquellos momentos que hasta yo mismo me planteaba mi propia cordura rodeado de cerebros monstruosos decorados con joyas y elegancia.
+
+¡[Yoda](./images.git/yoda.jpg)
